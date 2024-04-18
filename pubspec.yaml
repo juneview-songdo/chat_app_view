@@ -1,7 +1,7 @@
 name: chat_app_view
-description: "Description here"
+description: "Chat App View"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/chat_app_view
 
 version: 1.0.0+1
 
